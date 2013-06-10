@@ -16,8 +16,8 @@ import (
 )
 
 const lenSummery=1370
-//var Site string="localhost:80"
-var Site string="localhost:80"
+//var Site string="http://go130610.appengine.google.com"
+var Site string="http://go130610.appengine.google.com"
 var templatePath string="template/cn/"
 
 type TagCount struct {
